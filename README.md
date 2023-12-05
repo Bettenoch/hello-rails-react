@@ -155,6 +155,6 @@ I would like to thank Microverse for the guidance provided during this project.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://github.com/Bettenoch/hello-rails-react/blob/devops/LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
